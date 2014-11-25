@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mayouyou2014.github.io/sitemap.xml 
